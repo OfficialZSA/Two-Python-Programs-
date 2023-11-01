@@ -1,5 +1,3 @@
-#I Zaid Yusuf, 000903981, certify that this work is of my own effort and that i have not allowed anyone to copy from it
-
 ## Question 1 ##
 import random
 
@@ -37,8 +35,6 @@ def guessing_game():
         print("Sorry, you didn't guess the letter correctly. You scored 0 points.")
 
 guessing_game()
-
-
 
 ## Question 2 ##
 import random
